@@ -1,0 +1,6 @@
+1 Yousef Mohsen 2.5 8 4 6 7 8
+2 Tara Kamal 3.1 1 5 4 10 2 
+1 Youssef Samy 3.6 10 14 2 5 17
+4 Gamal Ali 3.6 10 3 2 6 8
+6 Esraa Mohamed 1.2 1 7 9 2 6
+5 Amira Rady 3.8 1 9 5 7 2  
